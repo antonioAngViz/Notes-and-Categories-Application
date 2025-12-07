@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notes and Categories Application</string>
+    <string name="nombre_category">Nombre de la Categoría</string>
+    <string name="save_category">Guardar Categoría</string>
+
+
+    <string name="categoria_guardada_ok">Categoría guardada</string>
+    <string name="error_guardar">Error al guardar</string>
+    <string name="title_note">Título de la Nota</string>
+    <string name="contenido">Contenido</string>
+    <string name="category">Categoría</string>
+    <string name="save_note">Guardar Nota</string>
+
+
+    <string name="create_category">Primero crea una Categoría</string>
+    <string name="title_obligatorio">El título es obligatorio</string>
+    <string name="content_obligatorio">El contenido es obligatorio</string>
+    <string name="selecciona_categoria">Debes seleccionar una categoría</string>
+    <string name="guardado_correctamente">Nota guardada exitosamente</string>
+    <string name="error_guardar_nota">Error al guardar la nota</string>
+    <string name="buscar_nota">Buscar nota...</string>
+    <string name="filtrar">Filtrar por:</string>
+    <string name="nueva_categoria">Nueva Categoría</string>
+    <string name="nueva_nota">Nueva Nota</string>
+
+
+</resources>
